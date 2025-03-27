@@ -3,10 +3,7 @@
 
 ✍️ I write tech blogs here https://always200.com
 
-![](https://github-contributor-stats.vercel.app/api?username=linshenkx&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://github-readme-stats.vercel.app/api?username=linshenkx&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=linshenkx&theme=react&hide_border=true)<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=linshenkx&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" alt="linshenkx's Github Stats">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=linshenkx&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
@@ -37,8 +34,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=linshenkx&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<div width="100%" align="center"><a href="https://github.com/linshenkx/CloudEon" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=linshenkx&repo=CloudEon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/linshenkx/kafka-db-auth" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=linshenkx&repo=kafka-db-auth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/linshenkx/haloSyncServer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=linshenkx&repo=haloSyncServer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/linshenkx/hdfs-ftp-server" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=linshenkx&repo=hdfs-ftp-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/linshenkx/prompt-optimizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=linshenkx&repo=prompt-optimizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/linshenkx/lingopod" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=linshenkx&repo=lingopod&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/linshenkx/edge-tts-openai-cf-worker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=linshenkx&repo=edge-tts-openai-cf-worker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dromara/CloudEon" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dromara&repo=CloudEon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
 
